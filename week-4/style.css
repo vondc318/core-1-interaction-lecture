@@ -1,4 +1,7 @@
 body {
-  background-color: gainsboro;
+  background-color: lightsalmon;
   min-height: 100vh;
+}
+p{
+  background-color: lightcoral;
 }
