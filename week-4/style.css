@@ -4,8 +4,9 @@ font-family: "Georgia", 'Times New Roman', "Times, serif";
   min-height: 100vh;
 }
 p{color: darkblue;}
-p{font-family: "cursive";color:hotpink;}
+p3{font-family: "cursive";color:hotpink;}
 p4{font-family: "cursive";color:cadetblue}
 p5{font-family: "cursive";color:aquamarine}
 
 p2{font-family:"helvetica";color:seagreen;}
+p6{font-weight:900;}
