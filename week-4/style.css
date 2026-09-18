@@ -3,10 +3,18 @@ font-family: "Georgia", 'Times New Roman', "Times, serif";
   background-color:rgb(196, 146, 188);
   min-height: 100vh;
 }
+h1{
+  color:purple;
+}
+}
 p{color: darkblue;}
 p3{font-family: "cursive";color:hotpink;}
 p4{font-family: "cursive";color:cadetblue}
 p5{font-family: "cursive";color:aquamarine}
 
-p2{font-family:"helvetica";color:seagreen;}
+p2{
+  font-family:"helvetica";color:seagreen;
+
+}
 p6{font-weight:900;}
+
